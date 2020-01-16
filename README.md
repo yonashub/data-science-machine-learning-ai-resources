@@ -28,7 +28,7 @@ Note that resources are listed in no particular order of preference or relevance
 - <a href="#whitepapers">Whitepapers</a>
 
 <h2><a name="blogs">Blogs</a></h2>
-- [InnoArchiTech](http://www.innoarchitech.com/)
+- [InnoArchiTech](http://www.innoarchitech.com/)<br/>
 - [Flowing Data](http://flowingdata.com/)
 - [KDnuggets](http://www.kdnuggets.com/)
 - [R-bloggers](https://www.r-bloggers.com/)
