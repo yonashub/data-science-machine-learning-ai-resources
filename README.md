@@ -29,105 +29,105 @@ Note that resources are listed in no particular order of preference or relevance
 
 <h2><a name="blogs">Blogs</a></h2>
 - [InnoArchiTech](http://www.innoarchitech.com/)<br/>
-- [Flowing Data](http://flowingdata.com/)
-- [KDnuggets](http://www.kdnuggets.com/)
-- [R-bloggers](https://www.r-bloggers.com/)
-- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
-- [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)
-- [Simply Statistics](http://simplystatistics.org/)
-- [Walking Randomly](http://www.walkingrandomly.com/)
-- [FastML](http://fastml.com/)
-- [No Free Hunch](http://blog.kaggle.com/)
-- [Machine Learning Mastery](http://machinelearningmastery.com/)
-- [Data Science Weekly](https://www.datascienceweekly.org/)
-- [Edwin Chen](http://blog.echen.me/)
-- [Harvard Data Science](http://harvarddatascience.com/)
+- [Flowing Data](http://flowingdata.com/)<br/>
+- [KDnuggets](http://www.kdnuggets.com/)<br/>
+- [R-bloggers](https://www.r-bloggers.com/)<br/>
+- [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)<br/>
+- [Statistical Modeling, Causal Inference, and Social Science](http://andrewgelman.com/)<br/>
+- [Simply Statistics](http://simplystatistics.org/)<br/>
+- [Walking Randomly](http://www.walkingrandomly.com/)<br/>
+- [FastML](http://fastml.com/)<br/>
+- [No Free Hunch](http://blog.kaggle.com/)<br/>
+- [Machine Learning Mastery](http://machinelearningmastery.com/)<br/>
+- [Data Science Weekly](https://www.datascienceweekly.org/)<br/>
+- [Edwin Chen](http://blog.echen.me/)<br/>
+- [Harvard Data Science](http://harvarddatascience.com/)<br/>
 
 <h2><a name="gitHub-repos">GitHub Repos</a></h2>
-- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
-- [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)
-- [Data science blogs](https://github.com/rushter/data-science-blogs)
-- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-- [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)
-- [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes)
-- [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)
-- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)
-- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-- [Learn Data Science open resources](https://github.com/nborwankar/LearnDataScience)
-- [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)
-- [General Assembly's Data Science course materials](https://github.com/justmarkham/DAT8)
-- [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)
-- [theano-tutorial](https://github.com/craffel/theano-tutorial)
-- [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
-- [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
-- [Awesome R](https://github.com/qinwf/awesome-R)
-- [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)
-- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+- [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)<br/>
+- [Data Science Resources](https://github.com/jonathan-bower/DataScienceResources)<br/>
+- [Data science blogs](https://github.com/rushter/data-science-blogs)<br/>
+- [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)<br/>
+- [Data Science Specialization resources](https://github.com/DataScienceSpecialization/courses)<br/>
+- [Data Science Specialization notes](https://github.com/sux13/DataScienceSpCourseNotes)<br/>
+- [Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython)<br/>
+- [R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)<br/>
+- [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)<br/>
+- [Learn Data Science open resources](https://github.com/nborwankar/LearnDataScience)<br/>
+- [List of Data Science/Big Data Resources](https://github.com/chaconnewu/free-data-science-books)<br/>
+- [General Assembly's Data Science course materials](https://github.com/justmarkham/DAT8)<br/>
+- [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)<br/>
+- [theano-tutorial](https://github.com/craffel/theano-tutorial)<br/>
+- [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)<br/>
+- [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)<br/>
+- [Awesome R](https://github.com/qinwf/awesome-R)<br/>
+- [Evaluation of Deep Learning Frameworks](https://github.com/zer0n/deepframeworks)<br/>
+- [Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)<br/>
 
 <h2><a name="notebooks">Notebooks</a></h2>
-- [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
-- [machine_learning](https://github.com/masinoa/machine_learning)
-- [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)
-- [Spark Notebook](https://github.com/andypetrella/spark-notebook)
+- [Data science IPython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)<br/>
+- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)<br/>
+- [machine_learning](https://github.com/masinoa/machine_learning)<br/>
+- [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks)<br/>
+- [Spark Notebook](https://github.com/andypetrella/spark-notebook)<br/>
 
 <h2><a name="book-resources">Book Resources</a></h2>
-- [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)
-- [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)
-- [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)
-- [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)
-- [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)
-- [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python Machine Learning book resources](https://github.com/rasbt/python-machine-learning-book)<br/>
+- [Python Machine Learning book FAQ](https://github.com/rasbt/python-machine-learning-book/tree/master/faq)<br/>
+- [Learning-Predictive-Analytics-with-R](https://github.com/PacktPublishing/Learning-Predictive-Analytics-with-R)<br/>
+- [Data Science from Scratch book resources](https://github.com/joelgrus/data-science-from-scratch)<br/>
+- [IPython Cookbook materials](https://github.com/ipython-books/cookbook-code)<br/>
+- [Python Data Science Handbook Supplemental Materials](https://github.com/jakevdp/PythonDataScienceHandbook)<br/>
 
 <h2><a name="cheats">Cheats</a></h2>
-- [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)
-- [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)
+- [GitHub markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
+- [GitHub markdown guide](https://guides.github.com/features/mastering-markdown/)<br/>
+- [Machine learning algorithm cheat sheet](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-cheat-sheet/)<br/>
 - [11 Steps for Data Exploration in R](https://www.analyticsvidhya.com/blog/2015/10/cheatsheet-11-steps-data-exploration-with-codes/)
-- [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)
-- [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
+- [AI Cheat Sheet](http://alexoner.github.io/AI-cheat-sheet/)<br/>
+- [Data Science Cheat Sheet](http://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)<br/>
 
 <h2><a name="web-resources">Web Resources</a></h2>
-- [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)
-- [Data School resources](http://www.dataschool.io/resources/)
-- [Open Source Data Science Masters](http://datasciencemasters.org/)
-- [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)
-- [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
+- [Data Science Weekly resources](https://www.datascienceweekly.org/data-science-resources)<br/>
+- [Data School resources](http://www.dataschool.io/resources/)<br/>
+- [Open Source Data Science Masters](http://datasciencemasters.org/)<br/>
+- [Open Source Data Science Masters - GitHub](https://github.com/datasciencemasters)<br/>
+- [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)<br/>
+- [Machine Intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--RCb7PzQR--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,dpr_2,fl_keep_iptc.progressive,q_95/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)<br/>
 
 <h2><a name="datasets">Datasets</a></h2>
-- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [AWS Public Datasets](https://aws.amazon.com/datasets/)
-- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
-- [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [FiveThirtyEight data](https://github.com/fivethirtyeight/data)
-- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)
-- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)
-- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)
-- [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
-- [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)<br/>
+- [AWS Public Datasets](https://aws.amazon.com/datasets/)<br/>
+- [100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)<br/>
+- [Kaggle Datasets](https://www.kaggle.com/datasets)<br/>
+- [FiveThirtyEight data](https://github.com/fivethirtyeight/data)<br/>
+- [Google BigQuery Public Datasets](https://cloud.google.com/bigquery/public-data/)<br/>
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets.html)<br/>
+- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/#!)<br/>
+- [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)<br/>
+- [THE Wikipedia Corpus](http://corpus.byu.edu/wiki/)<br/>
 
 <h2><a name="ides">IDEs</a></h2>
-- [Sublime Text](https://www.sublimetext.com/)
-- [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
+- [Sublime Text](https://www.sublimetext.com/)<br/>
+- [R Studio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)<br/>
 
 <h2><a name="programming-languages-os">Programming Languages and OS</a></h2>
-- [Python](https://docs.python.org/3/)
-- [R](https://cran.r-project.org/manuals.html)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
-- [Julia](http://docs.julialang.org/en/release-0.5/)
-- [Scala](http://docs.scala-lang.org/)
-- [Java](https://docs.oracle.com/javase)
-- [C++](http://devdocs.io/cpp/)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Bash](http://ss64.com/bash/)
-- [Ubuntu](https://help.ubuntu.com/)
-- [JSON](http://www.json.org/)
-- [JSON-RPC](http://json-rpc.org/)
-- [YAML](http://yaml.org/spec/1.2/spec.html)
-- [Git](https://git-scm.com/documentation)
+- [Python](https://docs.python.org/3/)<br/>
+- [R](https://cran.r-project.org/manuals.html)<br/>
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br/>
+- [SQL](https://en.wikipedia.org/wiki/SQL)<br/>
+- [Julia](http://docs.julialang.org/en/release-0.5/)<br/>
+- [Scala](http://docs.scala-lang.org/)<br/>
+- [Java](https://docs.oracle.com/javase)<br/>
+- [C++](http://devdocs.io/cpp/)<br/>
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br/>
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br/>
+- [Bash](http://ss64.com/bash/)<br/>
+- [Ubuntu](https://help.ubuntu.com/)<br/>
+- [JSON](http://www.json.org/)<br/>
+- [JSON-RPC](http://json-rpc.org/)<br/>
+- [YAML](http://yaml.org/spec/1.2/spec.html)<br/>
+- [Git](https://git-scm.com/documentation)<br/>
 
 <h2><a name="database-big-data">Database and Big Data</a></h2>
 - [AWS](https://aws.amazon.com/documentation/)
@@ -135,11 +135,11 @@ Note that resources are listed in no particular order of preference or relevance
     - [DynamoDB](https://aws.amazon.com/documentation/dynamodb/) - Fast and flexible NoSQL database service for any scale
     - [RDS](https://aws.amazon.com/documentation/rds/) - Amazon Relational Database Service
         + [Amazon Aurora](https://aws.amazon.com/rds/aurora/getting-started/) - MySQL-compatible relational database with 5X performance
-        + [Oracle](https://docs.oracle.com/en/database/)
-        + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)
-        + [PostgreSQL](https://www.postgresql.org/docs/)
-        + [MySQL](https://dev.mysql.com/doc/)
-        + [MariaDB](https://mariadb.org/learn/)
+        + [Oracle](https://docs.oracle.com/en/database/)<br/>
+        + [Microsoft SQL Server](https://msdn.microsoft.com/en-us/library/mt590198(v=sql.1).aspx)<br/>
+        + [PostgreSQL](https://www.postgresql.org/docs/)<br/>
+        + [MySQL](https://dev.mysql.com/doc/)<br/>
+        + [MariaDB](https://mariadb.org/learn/)<br/>
     + [Kinesis](https://aws.amazon.com/documentation/kinesis/) - Real-time streaming data in the AWS cloud
         * Firehouse - Easily load real-time streaming data into AWS
         * Analytics - Get actionable insights from streaming data in real-time
@@ -364,16 +364,16 @@ An open source and collaborative framework for extracting the data you need from
     + [Lambda Architecture for Batch and RealTime Processing on AWS with Spark Streaming and Spark SQL](https://d0.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf)
     + [Amazon Kinesis and Apache Storm - Building a Real-Time Sliding-Window Dashboard over Streaming Data](https://d0.awsstatic.com/whitepapers/building-sliding-window-analysis-of-clickstream-data-kinesis.pdf)
     + [Best Practices for Amazon EMR](https://d0.awsstatic.com/whitepapers/aws-amazon-emr-best-practices.pdf)
-    + [SaaS Storage Strategies - Building a Multitenant Storage Model on AWS](https://d0.awsstatic.com/whitepapers/Multi_Tenant_SaaS_Storage_Strategies.pdf)
-    + [SaaS Solutions on AWS - Tenant Isolation Architectures](https://d0.awsstatic.com/whitepapers/saas-solutions-on-aws-final.pdf)
-    + [Docker on AWS - Running Containers in the Cloud](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)
-    + [Data Warehousing on AWS](https://d0.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf)
-    + [Best Practices for Migrating from RDBMS to Amazon DynamoDB](https://d0.awsstatic.com/whitepapers/migration-best-practices-rdbms-to-dynamodb.pdf)
-    + [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf)
-    + [An Introduction to High Performance Computing on AWS](https://d0.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)
-    + [Core Tenets of IoT](https://d0.awsstatic.com/whitepapers/core-tenets-of-iot1.pdf)
-    + [Hosting Static Websites on AWS](https://d0.awsstatic.com/whitepapers/Storage/Building%20Static%20Websites%20on%20AWS.pdf)
-    + [Web Application Hosting in the AWS Cloud - Best Practices](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
-    + [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
-    + [Migrating your Existing Applications to the AWS Cloud](https://d0.awsstatic.com/whitepapers/cloud-migration-main.pdf)
+    + [SaaS Storage Strategies - Building a Multitenant Storage Model on AWS](https://d0.awsstatic.com/whitepapers/Multi_Tenant_SaaS_Storage_Strategies.pdf)<br/>
+    + [SaaS Solutions on AWS - Tenant Isolation Architectures](https://d0.awsstatic.com/whitepapers/saas-solutions-on-aws-final.pdf)<br/>
+    + [Docker on AWS - Running Containers in the Cloud](https://d0.awsstatic.com/whitepapers/docker-on-aws.pdf)<br/>
+    + [Data Warehousing on AWS](https://d0.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf)<br/>
+    + [Best Practices for Migrating from RDBMS to Amazon DynamoDB](https://d0.awsstatic.com/whitepapers/migration-best-practices-rdbms-to-dynamodb.pdf)<br/>
+    + [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf)<br/>
+    + [An Introduction to High Performance Computing on AWS](https://d0.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)<br/>
+    + [Core Tenets of IoT](https://d0.awsstatic.com/whitepapers/core-tenets-of-iot1.pdf)<br/>
+    + [Hosting Static Websites on AWS](https://d0.awsstatic.com/whitepapers/Storage/Building%20Static%20Websites%20on%20AWS.pdf)<br/>
+    + [Web Application Hosting in the AWS Cloud - Best Practices](https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)<br/>
+    + [Big Data Analytics Options on AWS](https://d0.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)<br/>
+    + [Migrating your Existing Applications to the AWS Cloud](https://d0.awsstatic.com/whitepapers/cloud-migration-main.pdf)<br/>
 
